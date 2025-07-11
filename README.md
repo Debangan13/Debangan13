@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Debangan Barman <br><br>- 🔭 I’m  a 3rd yr B.tech Student<br>- 📚 I'm studying at Siliguri Institute of Technology</p>
+<p align="left">I'm Debangan Barman <br><br>- 📚 graduate from Siliguri Institute of Technology</p>
 
 ###
 
